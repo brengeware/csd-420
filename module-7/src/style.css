@@ -1,0 +1,24 @@
+/* Brennan Cheatwood
+Assignment 7.2 CSS file
+*/
+.whitecircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+.border {
+    -fx-border-color: black;
+    -fx-border-width: 5;
+
+}
+
+#redcricle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}

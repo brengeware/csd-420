@@ -1,0 +1,10 @@
+<MenuBar>
+    <menus>
+        <Menu text="File">
+            <items>
+                <MenuItem text="Open" onAction="#handleOpen"/>
+                <MenuItem text="Exit" onAction="#handleExit"/>
+            </items>
+        </Menu>
+    </menus>
+</MenuBar>
